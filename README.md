@@ -1,3 +1,4 @@
 # Grid-layout
 Image gallery with grid
-live page: https://muzzammmill.github.io/Grid-layout/
+live page:
+https://muzz-grid-layout.netlify.app/
